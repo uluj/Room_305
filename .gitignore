@@ -1,0 +1,39 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+/[._]*.s[a-w][a-z]
+/[._]s[a-w][a-z]
+
+# Windows thumbnail database
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Visual Studio files
+.vs/
+/.vscode/
+
+# Rider files
+.idea/
+
+# Project settings
+ProjectSettings/
+
+# Generated asset previews
+Generated\ [Pp]review\ [Ff]iles/
